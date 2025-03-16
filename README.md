@@ -4,6 +4,8 @@
 
 Experimental plotter. It runs under Kalico and uses klipper polar kinematics.
 
+Polar plotter is driven by [VØ](https://github.com/fbeauKmi/v-nothing)
+
 # G0 macro override
 To avoid crossing 0,0
 G1 moves (drawing) are "linear" and G0 moves (travel) are polar
