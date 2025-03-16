@@ -1,0 +1,1 @@
+- install [vars.py](https://github.com/fbeauKmi/kbobine_filament_settings/blob/develop/klipper/klippy/plugins/vars.py) in ~/klipper/klippy/plugins
